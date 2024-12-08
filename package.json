@@ -7,10 +7,10 @@
     "test": "jest",
     "prepare": "npm run build"
   },
-  "keywords": [],
+  "keywords": ["ID", "validation", "national ID", "TypeScript", "Node.js"],
   "author": "tesfay tadesse",
   "license": "ISC",
-  "description": "",
+  "description": "A library to validate national IDs for various countries",
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "@types/node": "^22.10.1",
