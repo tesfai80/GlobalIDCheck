@@ -7,6 +7,10 @@
     "test": "jest",
     "prepare": "npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tesfai80/GlobalIDCheck.git"
+  },
   "keywords": ["ID", "validation", "national ID", "TypeScript", "Node.js"],
   "author": "tesfay tadesse",
   "license": "ISC",
