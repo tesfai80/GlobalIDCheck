@@ -12,6 +12,10 @@
     "url": "https://github.com/tesfai80/GlobalIDCheck.git"
   },
   "keywords": ["ID", "validation", "national ID", "TypeScript", "Node.js"],
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "author": "tesfay tadesse",
   "license": "ISC",
   "description": "A library to validate national IDs for various countries",
