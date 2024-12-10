@@ -89,4 +89,4 @@ license: MIT
 
 contact:
   info: |
-    For questions, issues, or feedback, please open an issue on the [GitHub repository](https://github.com/your-username/GlobalIDCheck).
+    For questions, issues, or feedback, please open an issue on the [GitHub repository](https://github.com/tesfai80/GlobalIDCheck).
